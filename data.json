@@ -1,4 +1,6 @@
-[
+{
+   "dataAptm":{
+      "apartament":[
          {
             "Identificador":"6704820938",
             "NumApto":"101",
@@ -72,3 +74,5 @@
             "CedulaPropietario":"58163937"
          }
       ]
+   }
+}
