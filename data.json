@@ -1,6 +1,3 @@
-{
-   "dataAptm":{
-      "apartament":[
          {
             "Identificador":"6704820938",
             "NumApto":"101",
@@ -73,6 +70,3 @@
             "IndiceCopropiedad":7,
             "CedulaPropietario":"58163937"
          }
-      ]
-   }
-}
