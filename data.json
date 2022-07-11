@@ -71,6 +71,14 @@
          "Dimension":35,
          "IndiceCopropiedad":7,
          "CedulaPropietario":"58163937"
+      },
+      {
+         "Identificador":"2849888227",
+         "NumApto":"110",
+         "NumTorre":"1",
+         "Dimension":40,
+         "IndiceCopropiedad":5,
+         "CedulaPropietario":"33943311"
       }
    ]
 }
